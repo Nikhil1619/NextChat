@@ -510,7 +510,7 @@ const openaiModels = [
   // "gpt-4-32k-0613",
   // "gpt-4-turbo",
   // "gpt-4-turbo-preview",
-  // "gpt-4.1",
+  "gpt-4.1",
   // "gpt-4.1-2025-04-14",
   // "gpt-4.1-mini",
   // "gpt-4.1-mini-2025-04-14",
